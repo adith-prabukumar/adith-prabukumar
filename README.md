@@ -18,7 +18,7 @@ Hi! I'm Adith Prabukumar, I'm a  ```Data Scientist 🚀``` and ```Machine Learni
 * 👨🏻‍💻 Im currently a graduate student doing Master of Science in ```Data Science``` in ```The University at Buffalo (UB)```.
 * Im looking to collaborate on projects involving ```large scale deployment``` and building ```monitoring dashboards```. Also interested in building ```Machine learning models```
 * Available at <a href="https://www.linkedin.com/in/adith-prabukumar"><img src="https://img.shields.io/badge/linkedin-adith--prabukumar-blue"></a>
-* 💬 Ask me anything! Im more than happy to help
+* 💬 Ask me anything! I'm more than happy to help
 
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Adith2710&theme=dark&background=000000)](https://git.io/streak-stats)
