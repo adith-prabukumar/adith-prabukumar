@@ -13,7 +13,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-Hi! I'm Adith Prabukumar, I'm a  ```Data Scientist 🚀``` and ```Machine Learning Engineer 🔭``` from India currently living in the United States. I love to code and deploy ML based products. When Im not coding, Im drinking [coffee](https://www.cnn.com/2020/04/22/health/healthiest-coffee-brew-wellness/index.html) ☕. 
+Hi! I'm Adith Prabukumar, I'm a  ```Data Scientist 🚀``` and ```Machine Learning Engineer 🔭``` from India currently living in the United States. I love to code and deploy ML based products. When I'm not coding, I'm drinking [coffee](https://www.cnn.com/2020/04/22/health/healthiest-coffee-brew-wellness/index.html) ☕. 
 
 * 👨🏻‍💻 Im currently a graduate student doing Master of Science in ```Data Science``` in ```The University at Buffalo (UB)```.
 * Im looking to collaborate on projects involving ```large scale deployment``` and building ```monitoring dashboards```. Also interested in building ```Machine learning models```
