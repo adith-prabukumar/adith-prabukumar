@@ -5,7 +5,7 @@
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <p align = "center"
 <a href="https://www.linkedin.com/in/adith-prabukumar"adithprabu27@gmail.com><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-<a href= "mailto:adithprabu27@gmail.com"></a><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href= "mailto:adithprabu27@gmail.com"adithprabu27@gmail.com></a><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </p>
 <!--
 **Adith2710/Adith2710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
